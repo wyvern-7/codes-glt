@@ -1,0 +1,5 @@
+{
+"RELEASE":{"RewardType":"Money","Reward":250},
+"NEWUPDATE":{"RewardType":"Gems","Reward":50},
+"BUGFIXES":{"RewardType":"Boost","BoostType":"Money","Reward":300}
+}
